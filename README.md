@@ -4,30 +4,30 @@ I am a passionate, curious and deep thinking professional exploring various doma
 
 **Current status:**
 
-![CleverTap](https://img.shields.io/static/v1?logo=Google%20Analytics&label=&message=SDK%20Engineer%20at%20CleverTap&color=36465D&logoColor=FFF&style=flat-square)
+![CleverTap](https://img.shields.io/static/v1?logo=Google%20Analytics&label=&message=SDK%20Engineer%20at%20CleverTap&color=36465D&logoColor=FFF&style=flat-square&link=https://clevertap.com)
 
 
 **Languages I Know/Use:**
 
-![java](https://img.shields.io/static/v1?logo=coffeeScript&label=&message=Java&color=36465D&logoColor=FFF&style=flat-square)
-![kotlin](https://img.shields.io/static/v1?logo=kotlin&label=&message=Kotlin&color=36465D&logoColor=FFF&style=flat-square)
-![groovy](https://img.shields.io/static/v1?logo=gradle&label=&message=Groovy&color=36465D&logoColor=FFF&style=flat-square)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=FFF&style=flat-square&link=)
-![python](https://img.shields.io/static/v1?logo=MySQL&label=&message=SQL&color=36465D&logoColor=FFF&style=flat-square&link=)
-![html](https://img.shields.io/static/v1?logo=html5&label=&message=HTML&color=36465D&logoColor=FFF&style=flat-square&link=)
-![css](https://img.shields.io/static/v1?logo=css3&label=&message=CSS&color=36465D&logoColor=FFF&style=flat-square&link=)
-![js](https://img.shields.io/static/v1?logo=javascript&label=&message=JS&color=36465D&logoColor=FFF&style=flat-square&link=)
-![dart](https://img.shields.io/static/v1?logo=dart&label=&message=Dart&color=36465D&logoColor=FFF&style=flat-square&link=)
+![java](https://img.shields.io/static/v1?logo=coffeeScript&label=&message=Java&color=36465D&logoColor=FFF&style=flat-square&link=https://github.com/root-ansh)
+![kotlin](https://img.shields.io/static/v1?logo=kotlin&label=&message=Kotlin&color=36465D&logoColor=FFF&style=flat-square&link=https://github.com/root-ansh)
+![groovy](https://img.shields.io/static/v1?logo=gradle&label=&message=Groovy&color=36465D&logoColor=FFF&style=flat-square&link=https://github.com/root-ansh)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=FFF&style=flat-square&link=https://github.com/root-ansh)
+![python](https://img.shields.io/static/v1?logo=MySQL&label=&message=SQL&color=36465D&logoColor=FFF&style=flat-square&link=https://github.com/root-ansh)
+![html](https://img.shields.io/static/v1?logo=html5&label=&message=HTML&color=36465D&logoColor=FFF&style=flat-square&link=https://github.com/root-ansh)
+![css](https://img.shields.io/static/v1?logo=css3&label=&message=CSS&color=36465D&logoColor=FFF&style=flat-square&link=https://github.com/root-ansh)
+![js](https://img.shields.io/static/v1?logo=javascript&label=&message=JS&color=36465D&logoColor=FFF&style=flat-square&link=https://github.com/root-ansh)
+![dart](https://img.shields.io/static/v1?logo=dart&label=&message=Dart&color=36465D&logoColor=FFF&style=flat-square&link=https://github.com/root-ansh)
 
 **Frameworks I Know/Use:**
 
-![android](https://img.shields.io/static/v1?logo=android&label=&message=Android&color=36465D&logoColor=FFF&style=flat-square&link=)
-![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=36465D&logoColor=FFF&style=flat-square&link=)
-![Firebase](https://img.shields.io/static/v1?logo=firebase&label=&message=Firebase&color=36465D&logoColor=FFF&style=flat-square&link=)
-![Node](https://img.shields.io/static/v1?logo=node.js&label=&message=Node&color=36465D&logoColor=FFF&style=flat-square&link=)
-![Express](https://img.shields.io/static/v1?logo=express&label=&message=Express&color=36465D&logoColor=FFF&style=flat-square&link=)
-![Unity](https://img.shields.io/static/v1?logo=unity&label=&message=Unity&color=36465D&logoColor=FFF&style=flat-square&link=)
-![cordova](https://img.shields.io/static/v1?logo=apache%20cordova&label=&message=Cordova&color=36465D&logoColor=FFF&style=flat-square&link=)
+![android](https://img.shields.io/static/v1?logo=android&label=&message=Android&color=36465D&logoColor=FFF&style=flat-square&link=https://github.com/root-ansh)
+![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=36465D&logoColor=FFF&style=flat-square&link=https://github.com/root-ansh)
+![Firebase](https://img.shields.io/static/v1?logo=firebase&label=&message=Firebase&color=36465D&logoColor=FFF&style=flat-square&link=https://github.com/root-ansh)
+![Node](https://img.shields.io/static/v1?logo=node.js&label=&message=Node&color=36465D&logoColor=FFF&style=flat-square&link=https://github.com/root-ansh)
+![Express](https://img.shields.io/static/v1?logo=express&label=&message=Express&color=36465D&logoColor=FFF&style=flat-square&link=https://github.com/root-ansh)
+![Unity](https://img.shields.io/static/v1?logo=unity&label=&message=Unity&color=36465D&logoColor=FFF&style=flat-square&link=https://github.com/root-ansh)
+![cordova](https://img.shields.io/static/v1?logo=apache%20cordova&label=&message=Cordova&color=36465D&logoColor=FFF&style=flat-square&link=https://github.com/root-ansh)
 
 
 **Connect with me on:**  
