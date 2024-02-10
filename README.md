@@ -2,9 +2,14 @@
 
 I am a passionate, curious and deep thinking professional exploring various domains of Technology every day. I am currently building and breaking stuff in Android domain.
 
-**Current status:**
+**Current Role:**
 
-![CleverTap](https://img.shields.io/static/v1?logo=Google%20Analytics&label=&message=SDK%20Engineer%20at%20CleverTap&color=36465D&logoColor=FFF&style=flat-square&link=https://clevertap.com)
+![CleverTap](https://img.shields.io/static/v1?logo=Tata&label=&message=TATA%20AIG%20|%20Senior%20Software%20Engineer&color=36465D&logoColor=FFF&style=flat-square&link=https://clevertap.com)
+
+**Previous Roles:**
+
+![](https://img.shields.io/static/v1?logo=Google%20Analytics&label=&message=CleverTap%20|%20SDK%20Engineer&color=36465D&logoColor=FFF&style=flat-square&link=https://clevertap.com)
+![](https://img.shields.io/static/v1?logo=zcash&label=&message=Zenius%20|%20Android%20Engineer&color=36465D&logoColor=FFF&style=flat-square&link=https://clevertap.com)
 
 
 **Languages I Know/Use:**
@@ -47,7 +52,7 @@ I am a passionate, curious and deep thinking professional exploring various doma
 </a>
 
 <a href="https://root-ansh.github.io/">
-  <img align="left" alt="Ansh's Website" width="20px" src="https://simpleicons.now.sh/firefox/495f7e" />
+  <img align="left" alt="Ansh's Website" width="20px" src="https://simpleicons.now.sh/esri/495f7e" />
 </a>
 
 
