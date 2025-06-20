@@ -4,7 +4,7 @@ I am a passionate, curious and deep thinking professional exploring various doma
 
 **Current Role:**
 
-![CleverTap](https://img.shields.io/static/v1?logo=Tata&label=&message=TATA%20AIG%20|%20Senior%20Software%20Engineer&color=36465D&logoColor=FFF&style=flat-square&link=https://clevertap.com)
+![CleverTap](https://img.shields.io/static/v1?logo=Tata&label=&message=TATA%20AIG%20|%20Software%20Engineer&color=36465D&logoColor=FFF&style=flat-square&link=https://clevertap.com)
 
 **Previous Roles:**
 
