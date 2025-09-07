@@ -38,25 +38,30 @@ I am a passionate, curious and deep thinking professional exploring various doma
 **Connect with me on:**  
 
 
-<a href="https://twitter.com/root_ansh">
-  <img align="left" alt="Ansh's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
-<a href="https://www.instagram.com/desi_sachdeva/">
-  <img align="left" alt="Ansh's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
-<a href="https://linkedin.com/in/anshsachdevawork">
-  <img align="left" alt="Ansh's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
-<a href="https://medium.com/me/anshsachdevawork">
-  <img align="left" alt="Ansh's Medium" width="20px" src="https://simpleicons.now.sh/medium/495f7e" />
-</a>
-
-<a href="https://root-ansh.github.io/">
-  <img align="left" alt="Ansh's Website" width="20px" src="https://simpleicons.now.sh/esri/495f7e" />
-</a>
-
-
+<p>
 <a href="mailto:anshsachdeva.work@gmail.com">
-  <img align="left" alt="Ansh's Website" width="20px" src="https://simpleicons.now.sh/gmail/495f7e" />
+    E-mail
 </a>
+•
+<a href="https://www.linkedin.com/in/anshsachdevawork">
+    LinkedIn
+</a>
+•
+<a href="https://github.com/root-ansh">
+    Github
+</a>
+•
+<a href="https://medium.com/@anshsachdeva.work">
+    Medium
+</a>
+•
+<a href="https://twitter.com/root_ansh">
+    Twitter
+</a>
+•
+<a href="https://hashnode.com/@root-ansh">
+    Hashnode
+</a>
+
+</p>
 
